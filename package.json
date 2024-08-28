@@ -27,6 +27,6 @@
     "query-string": "^7.1.1",
     "showdown": "^2.1.0",
     "string-width": "^5.1.2",
-    "strip-ansi": "^7.0.1"
+    "strip-ansi": "^7.1.0"
   }
 }
