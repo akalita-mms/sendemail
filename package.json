@@ -10,7 +10,7 @@
     "brace-expansion": "^2.0.1",
     "byte-length": "^1.0.2",
     "camelcase": "^7.0.0",
-    "cheerio": "^1.0.0-rc.11",
+    "cheerio": "^1.0.0",
     "cliui": "^7.0.4",
     "color-convert": "^2.0.1",
     "color-name": "^1.1.4",
