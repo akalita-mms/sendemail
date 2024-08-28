@@ -14,7 +14,7 @@
     "cliui": "^7.0.4",
     "color-convert": "^2.0.1",
     "color-name": "^2.0.0",
-    "concat-map": "^0.0.1",
+    "concat-map": "^0.0.2",
     "decamelize": "^6.0.0",
     "dom-serializer": "^2.0.0",
     "emoji-regex": "^10.1.0",
