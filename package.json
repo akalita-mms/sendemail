@@ -24,7 +24,7 @@
     "nodemailer": "^6.9.16",
     "p-try": "^3.0.0",
     "path-exists": "^5.0.0",
-    "query-string": "^9.1.0",
+    "query-string": "^9.1.1",
     "showdown": "^2.1.0",
     "string-width": "^7.2.0",
     "strip-ansi": "^7.1.0"
