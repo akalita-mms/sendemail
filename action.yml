@@ -60,5 +60,5 @@ inputs:
     description: Set Priority level for the mail message to 'high', 'normal' (default) or 'low'
     required: false
 runs:
-  using: node20
+  using: node24
   main: main.js
